@@ -7,3 +7,7 @@ let auto = function(contar){
     }
 }
 console.log(auto(20))
+//Mi primer commit
+for (let i = 1; i <= 10; i++) {
+  console.log(i);
+}
